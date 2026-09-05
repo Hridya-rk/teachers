@@ -335,6 +335,7 @@ img{ max-width:100%; display:block; }
   text-shadow:3px 3px 0 var(--green-deep);
   margin-bottom:18px;
 }
+.teacher-name .title{ text-transform:none; }
 .teacher-tag{
   display:inline-block;
   margin-bottom:18px;
